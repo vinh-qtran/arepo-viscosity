@@ -1,1 +1,1 @@
-# arepo-viscosity
+# Arepo Numerical Viscosity Analysis
